@@ -1,0 +1,26 @@
+{
+    "name": "shawosy/page",
+    "description": "Genarate Page dynamically using database",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shawosy\\Page\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronny Dsouza",
+            "email": "shawosy@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "shawosy\\page\\ShawosyPageServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,20 @@
+{
+    "name": "shawosy/slider",
+    "description": "This is a slider package that responsible for save sliders in db from admin panel.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shawosy\\Slider\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronny Dsouza",
+            "email": "shawosy@gmail.com"
+        }
+    ],
+   
+    "minimum-stability": "dev",
+    "require": {}
+}

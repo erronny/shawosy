@@ -1,0 +1,19 @@
+{
+    "name": "shawosy/imageuploader",
+    "description": "upload multiple image globally",
+    "type": "project",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Shawosy\\Imageuploader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erronny",
+            "email": "callmeronnydsouza456@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

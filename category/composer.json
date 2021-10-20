@@ -1,0 +1,26 @@
+{
+    "name": "shawosy/category",
+    "description": "category and subcategory",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Shawosy\\Category\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronny Dsouza",
+            "email": "shawosy@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "shawosy\\slider\\ShawosyCategoryServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

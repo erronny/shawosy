@@ -1,0 +1,19 @@
+{
+    "name": "shawosy/blog",
+    "description": "Blog",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shawosy\\Blog\\": "packages/shawosy/blog/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronny Dsouza",
+            "email": "shawosy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
